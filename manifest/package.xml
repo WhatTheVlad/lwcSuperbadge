@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>AccountController</members>
+        <members>AccountHandler</members>
+        <members>AccountTriggerHandler</members>
+        <members>AccountTriggerTest</members>
+        <members>AccountTrigger_Test</members>
+        <members>AccountUtils</members>
+        <members>ContactAndLeadSearch</members>
+        <members>ContactController</members>
+        <members>ContactSearch</members>
+        <members>ContactsTodayController</members>
+        <members>ContactsTodayControllerTest</members>
+        <members>CountryCodeHelper</members>
+        <members>DivisionByThree</members>
+        <members>DivisionByThreeTest</members>
+        <members>OpportunityAlertController</members>
+        <members>OpportunityAlertControllerTest</members>
+        <members>OpportunityHandler</members>
+        <members>StringArrayTest</members>
+        <members>TestRestrictContactByName</members>
+        <members>TestVerifyDate</members>
+        <members>VerifyDate</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>unitTest</members>
+        <name>LightningComponentBundle</name>
+    </types>
+    <version>53.0</version>
+</Package>
