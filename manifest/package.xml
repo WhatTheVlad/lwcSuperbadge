@@ -26,6 +26,10 @@
     </types>
     <types>
         <members>unitTest</members>
+        <members>wireCPR</members>
+        <members>wireLDS</members>
+        <members>wireApex</members>
+        <members>otherComponents</members>
         <name>LightningComponentBundle</name>
     </types>
     <version>53.0</version>
